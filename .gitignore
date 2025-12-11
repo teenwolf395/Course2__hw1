@@ -1,0 +1,16 @@
+
+# Colab
+.ipynb_checkpoints/
+__pycache__/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Системные
+.DS_Store
+Thumbs.db
